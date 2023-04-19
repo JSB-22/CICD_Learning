@@ -97,6 +97,12 @@ public class ClassStructsTests
         Assert.That(expectedAge, Is.EqualTo(testPerson.Age));
     }
 
+    [Test]
+    public void DemoTestCICD()
+    {
+        Assert.Fail();
+    }
+
 
 
 
