@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourPillarsApp", "FourPillarsApp\FourPillarsApp.csproj", "{A1BF5398-140A-46BC-A70A-72962C10B5E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourPillarsTests", "FourPillarsTests\FourPillarsTests.csproj", "{8ED47F30-BE84-4E81-8768-A76947F6CC14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1BF5398-140A-46BC-A70A-72962C10B5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BF5398-140A-46BC-A70A-72962C10B5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BF5398-140A-46BC-A70A-72962C10B5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BF5398-140A-46BC-A70A-72962C10B5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED47F30-BE84-4E81-8768-A76947F6CC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED47F30-BE84-4E81-8768-A76947F6CC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED47F30-BE84-4E81-8768-A76947F6CC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED47F30-BE84-4E81-8768-A76947F6CC14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77354A33-85E3-4A12-9A4C-235DA6CC16DD}
+	EndGlobalSection
+EndGlobal
